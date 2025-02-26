@@ -20,7 +20,7 @@ This project aims to provide critical insights into the performance of the new m
 - Support data-driven decisions to improve customer satisfaction and maximize profitability.
 
 ## AIM OF THE PROJECT  
-#### 1. Determine the most popular menu items and analyze the factors contributing to their success.  
+#### 1. Determine the most popular menu items 
 #### 2. Assess the performance of menu categories to understand their revenue impact.  
 #### 3. Analyze the purchasing habits of high-value customers to tailor menu offerings effectively.  
 #### 4. Provide actionable recommendations to optimize the menu for enhanced customer satisfaction and increased profitability. 
