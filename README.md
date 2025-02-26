@@ -1,11 +1,9 @@
 # RESTAURANT OPERATIONS ANALYSIS: Insights into Customer Preferences and Menu Performance at Taste of the World Café
-## Table of content
- [DESCRIPTION ](description)
- 
+
+![RESTAURANT OPERATIONS ANALYSIS DASHBOARD](https://github.com/user-attachments/assets/cf6bd056-b5b9-4f31-ba39-f5847c78c15e)
+
 ## DESCRIPTION  
 This project analyzes the performance of a newly launched menu at Taste of the World Café, a restaurant known for its diverse offerings and generous portions. The project aims to uncover actionable insights into customer preferences, popular dishes, and underperforming items by leveraging customer order data and menu details.  
-
-![RESTAURANT OPERATIONS ANALYSIS](https://github.com/user-attachments/assets/6c890c01-fe22-4a2f-911c-63c70bf142a7)
 
 The analysis will utilize two key datasets:  
 1. Menu Items Data: Information on the café's new menu, including categories, menu_items_id,item_name, and pricing.  
