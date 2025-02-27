@@ -29,19 +29,19 @@ This project aims to provide critical insights into the performance of the new m
 ### 1. DATA CLEANING AND TRANSFORMATION
 TOOLS: MYSQL
 I cleaned and transformed the dataset as follows:
-1. Null Value Removal  
+#### (i) Null Value Removal
    Null values in the `item_id` column were removed, ensuring all orders had valid menu items.
-2. Duplicate Removal
+#### (ii) Duplicate Removal
    Duplicate rows were eliminated from both tables to maintain data accuracy.
-3. Data Validation
+#### (iii) Data Validation
    Validated `menu_item_id` ranges (101–132), `order_date` format (`YYYY-MM-DD`), and price consistency.
-4. Cleaning Results  
+#### (iv) Cleaning Results  
    Orders reduced from **5,370** to **5,343**, and items ordered decreased from **12,234** to **12,097** after cleaning.
    Here’s the revised version of the insights and recommendations, free from potential plagiarism concerns.
-5. Table Joining
-- Performed a LEFT JOIN between the `Order_Details` table and the `Menu_Items` table using `menu_item_id` as the primary key.  
-- Created a new table called `Order_Item_Details`, which consolidates data from both tables.  
-- The `Order_Item_Details` table includes all necessary fields required for further analysis and visualization.  
+#### (v) Table Joining
+  - Performed a LEFT JOIN between the `Order_Details` table and the `Menu_Items` table using `menu_item_id` as the primary key.  
+  - Created a new table called `Order_Item_Details`, which consolidates data from both tables.  
+  - The `Order_Item_Details` table includes all necessary fields required for further analysis and visualization.  
    
 ### 2. ANALYSIS AND DASHBOARD CREATION
 TOOLS: MYSQL, Power BI visualization features.
